@@ -1,0 +1,15 @@
+{
+	"name": "adf-micky-service",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eaf1c623-95f8-4341-951a-9e75ec546a26",
+		"tenantId": "7f9e2aa4-daf6-422b-a230-7f0926b2b55c"
+	}
+}
